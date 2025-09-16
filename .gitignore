@@ -43,3 +43,4 @@ testem.log
 Thumbs.db
 ios/App/.DerivedData/*
 proxy.conf.json
+build
